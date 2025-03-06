@@ -6,7 +6,7 @@ Sempre achei programação fascinante, mas achava que poderia ser difícil e nun
 
 Depois, explorei o **Python** e me encantei ainda mais, especialmente pelo desenvolvimento **back-end**. Hoje, o Python é minha linguagem principal. 
 
-Também concluí um curso na **Udemy** sobre desenvolvimento com **Python**, **Java**, **JavaScript** e **MySQL**. Durante o curso, desenvolvi projetos básicos, mas que me deram uma boa base para criar softwares funcionais. Aprendi a usar o **Qt Designer** para criar interfaces gráficas, embora meu foco principal seja a funcionalidade do código. 
+Também concluí um curso na **Udemy** sobre desenvolvimento com **Python**, **Java** e **MySQL**. Durante o curso, desenvolvi projetos básicos, mas que me deram uma boa base para criar softwares funcionais. Aprendi a usar o **Qt Designer** para criar interfaces gráficas, embora meu foco principal seja a funcionalidade do código. 
 
 ## 🛠️ Habilidades Técnicas
 - **Linguagens**: Python (principal), JavaScript, Java
